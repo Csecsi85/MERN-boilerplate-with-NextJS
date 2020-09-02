@@ -1,2 +1,1 @@
-# MERN-boilerplate
-Basic MERN stack starter repository with NextJS and dependencies
+# MERN boilerplate with NextJS and dependencies just as I like it
